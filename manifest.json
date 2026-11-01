@@ -1,6 +1,6 @@
 {
  "id": "com.hertn.xmasmovies",
- "version": "1.1.0",
+ "version": "1.2.0",
  "name": "Christmas Movie List",
  "description": "A hand-picked Christmas watchlist by mood.",
  "resources": [
@@ -12,33 +12,33 @@
  "catalogs": [
   {
    "type": "movie",
-   "id": "favourites",
-   "name": "Every Christmas"
-  },
-  {
-   "type": "movie",
-   "id": "golden-age",
-   "name": "Golden Age"
-  },
-  {
-   "type": "movie",
-   "id": "magic",
-   "name": "Magic"
-  },
-  {
-   "type": "movie",
-   "id": "cosy",
-   "name": "Cosy"
-  },
-  {
-   "type": "movie",
-   "id": "comedy",
-   "name": "Comedy"
-  },
-  {
-   "type": "movie",
-   "id": "musical",
-   "name": "Musical"
+   "id": "christmas",
+   "name": "Christmas Movie List",
+   "extra": [
+    {
+     "name": "genre",
+     "options": [
+      "Every Christmas",
+      "Golden Age",
+      "Magic",
+      "Cosy",
+      "Comedy",
+      "Musical"
+     ],
+     "isRequired": false
+    }
+   ],
+   "genres": [
+    "Every Christmas",
+    "Golden Age",
+    "Magic",
+    "Cosy",
+    "Comedy",
+    "Musical"
+   ],
+   "extraSupported": [
+    "genre"
+   ]
   }
  ],
  "idPrefixes": [
