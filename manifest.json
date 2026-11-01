@@ -1,0 +1,72 @@
+{
+ "id": "com.hertn.xmasmovies",
+ "version": "1.0.0",
+ "name": "🎄 Christmas Movie List",
+ "description": "A hand-picked Christmas watchlist: favourites, must-watch picks and the full list by category.",
+ "resources": [
+  "catalog"
+ ],
+ "types": [
+  "movie"
+ ],
+ "catalogs": [
+  {
+   "type": "movie",
+   "id": "favourites",
+   "name": "⭐ Every Christmas"
+  },
+  {
+   "type": "movie",
+   "id": "picks-childhood",
+   "name": "📼 Must-Watch: 80s–00s Picks"
+  },
+  {
+   "type": "movie",
+   "id": "picks-oldies",
+   "name": "🕰️ Must-Watch: Golden Oldies"
+  },
+  {
+   "type": "movie",
+   "id": "classic",
+   "name": "🎁 Classic Christmas"
+  },
+  {
+   "type": "movie",
+   "id": "comedy",
+   "name": "😂 Christmas Comedy"
+  },
+  {
+   "type": "movie",
+   "id": "family",
+   "name": "🍪 Family Favourites"
+  },
+  {
+   "type": "movie",
+   "id": "cosy",
+   "name": "☕ Cosy & Feel Good"
+  },
+  {
+   "type": "movie",
+   "id": "animated",
+   "name": "🦌 Animated & Kids"
+  },
+  {
+   "type": "movie",
+   "id": "fantasy",
+   "name": "🪄 Fantasy & Magic"
+  },
+  {
+   "type": "movie",
+   "id": "romance",
+   "name": "💕 Romance"
+  },
+  {
+   "type": "movie",
+   "id": "special",
+   "name": "⛄ Special Mentions"
+  }
+ ],
+ "idPrefixes": [
+  "tt"
+ ]
+}
