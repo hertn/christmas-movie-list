@@ -1,4 +1,4 @@
-# Christmas Movie List
+# Hert's Xmas List
 
 A hand-picked Christmas watchlist for Stremio, sorted by mood.
 
