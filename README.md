@@ -50,7 +50,6 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - On Moonlight Bay (1951)
 - The Holly and the Ivy (1952)
 - White Christmas (1954)
-- Lady and the Tramp (1955)
 - We're No Angels (1955)
 
 ### Magic
@@ -94,7 +93,6 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - On Moonlight Bay (1951)
 - The Holly and the Ivy (1952)
 - White Christmas (1954)
-- Lady and the Tramp (1955)
 - A Charlie Brown Christmas (1965)
 - A Christmas Story (1983)
 - One Magic Christmas (1985)
