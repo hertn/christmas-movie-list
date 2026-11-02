@@ -1,6 +1,6 @@
 {
  "id": "com.hertn.xmasmovies",
- "version": "1.4.2",
+ "version": "1.5.0",
  "name": "Hert's Xmas List",
  "description": "A hand-picked Christmas watchlist by mood.",
  "resources": [
@@ -23,7 +23,8 @@
       "Magic",
       "Cozy",
       "Comedy",
-      "Musical"
+      "Musical",
+      "Animated"
      ],
      "isRequired": false
     }
@@ -34,7 +35,8 @@
     "Magic",
     "Cozy",
     "Comedy",
-    "Musical"
+    "Musical",
+    "Animated"
    ],
    "extraSupported": [
     "genre"

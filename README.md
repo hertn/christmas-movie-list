@@ -139,3 +139,13 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - White Christmas (1954)
 - The Christmas That Almost Wasn't (1966)
 - The Muppet Christmas Carol (1992)
+
+### Animated
+
+- A Charlie Brown Christmas (1965)
+- How the Grinch Stole Christmas! (1966)
+- The Snowman (1982)
+- The Nightmare Before Christmas (1993)
+- Mickey's Once Upon a Christmas (1999)
+- Mickey's Twice Upon a Christmas (2004)
+- The Polar Express (2004)
