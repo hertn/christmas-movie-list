@@ -1,10 +1,19 @@
-# Hert's Xmas List
+<p align="center">
+  <img src="icon.svg" width="88" height="88" alt="Xmas List icon">
+</p>
 
-A hand-picked Christmas watchlist for Stremio, sorted by mood.
+<h1 align="center">Hert's Xmas List</h1>
+
+<p align="center">A hand-picked Christmas watchlist for Stremio, sorted by mood.</p>
+
+<p align="center">
+  <a href="https://web.stremio.com/#/addons?addon=https%3A%2F%2Fhertn.github.io%2Fchristmas-movie-list%2Fmanifest.json"><img src="https://img.shields.io/badge/install-in%20Stremio-7b5cf0?style=flat&amp;labelColor=15181e" alt="Install in Stremio"></a>
+  <a href="https://ko-fi.com/hertn"><img src="https://img.shields.io/badge/support-%E2%9D%A4%20Ko--fi-ff5e5b?style=flat&amp;labelColor=15181e&amp;logo=kofi&amp;logoColor=white" alt="Support on Ko-fi"></a>
+</p>
 
 ## Install
 
-In Stremio, open **Addons** and paste this link into the search bar:
+Press **Install in Stremio** above, or open **Addons** in Stremio and paste this link into the search bar:
 
 ```
 https://hertn.github.io/christmas-movie-list/manifest.json
@@ -149,3 +158,7 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - Mickey's Once Upon a Christmas (1999)
 - Mickey's Twice Upon a Christmas (2004)
 - The Polar Express (2004)
+
+## Support
+
+This list is free. If you enjoy it, you can [buy me a coffee on Ko-fi](https://ko-fi.com/hertn).
