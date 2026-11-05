@@ -87,6 +87,7 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - The Santa Clause 3: The Escape Clause (2006)
 - The Christmas Chronicles (2018)
 - The Christmas Chronicles: Part Two (2020)
+- Beauty and the Beast: The Enchanted Christmas (1997)
 
 ### Cozy
 
@@ -148,6 +149,7 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - White Christmas (1954)
 - The Christmas That Almost Wasn't (1966)
 - The Muppet Christmas Carol (1992)
+- Beauty and the Beast: The Enchanted Christmas (1997)
 
 ### Animated
 
@@ -158,6 +160,7 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - Mickey's Once Upon a Christmas (1999)
 - Mickey's Twice Upon a Christmas (2004)
 - The Polar Express (2004)
+- Beauty and the Beast: The Enchanted Christmas (1997)
 
 ## Support
 
